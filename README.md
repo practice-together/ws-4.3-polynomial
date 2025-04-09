@@ -34,7 +34,7 @@ This project implements an interactive polynomial curve fitting tool for ESP32-S
 ├── ws-4.3-polynomial.ino         # Main Arduino sketch
 ├── curve_fitting.h               # Header for curve fitting UI
 ├── curve_fitting.cpp             # Implementation of UI and curve fitting
-├── eigen.cpp                     # Simplified Eigen library folder
+├── eigen.cpp                     # Simplified Eigen library
 ```
 
 other files as per Waveshare sample code.
